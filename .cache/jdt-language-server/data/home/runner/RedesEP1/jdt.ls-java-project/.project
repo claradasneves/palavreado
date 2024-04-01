@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Cliente.java</name>
+			<type>1</type>
+			<location>//home/runner/RedesEP1/Cliente/Cliente.java</location>
+		</link>
+		<link>
+			<name>src/PalavreadoCliente.java</name>
+			<type>1</type>
+			<location>//home/runner/RedesEP1/Cliente/PalavreadoCliente.java</location>
+		</link>
+		<link>
+			<name>src/PalavreadoServidor.java</name>
+			<type>1</type>
+			<location>/home/runner/RedesEP1/PalavreadoServidor.java</location>
+		</link>
+		<link>
+			<name>src/Servidor.java</name>
+			<type>1</type>
+			<location>/home/runner/RedesEP1/Servidor.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,3805 @@
+!SESSION 2023-12-09 23:45:19.728 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.5
+java.vendor=GraalVM Community
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED
+Command-line arguments:  --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -data /home/runner/RedesEP1/.cache/jdt-language-server/data/home/runner/RedesEP1
+
+This is a continuation of log file /home/runner/RedesEP1/.cache/jdt-language-server/data/home/runner/RedesEP1/.metadata/.bak_0.log
+Created Time: 2023-12-10 01:22:33.852
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:33.852
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:34.017
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:34.018
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:34.018
+!MESSAGE Validated 3. Took 196 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:35.412
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:35.453
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:36.248
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:37.043
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:37.817
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:38.614
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:39.776
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:41.252
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:41.338
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:41.716
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:41.751
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:41.778
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:41.818
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:42.290
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:42.290
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:42.323
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:42.324
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:42.422
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:42.422
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:42.423
+!MESSAGE Validated 3. Took 155 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:43.908
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:43.944
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.016
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.090
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.166
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.168
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.465
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.550
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.627
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.693
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.751
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.834
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.867
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:44.952
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:45.368
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:45.368
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:45.419
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:45.419
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:45.521
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:45.522
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:45.522
+!MESSAGE Validated 3. Took 169 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:46.369
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:46.454
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:46.871
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:46.872
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:46.885
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:46.886
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:47.018
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:47.019
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:47.020
+!MESSAGE Validated 3. Took 164 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:47.842
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:48.218
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:50.261
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:50.386
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:51.878
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:54.624
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:55.059
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:55.870
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:58.117
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:58.875
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:59.566
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:22:59.651
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.126
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.127
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.142
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.143
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.215
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.231
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.232
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.232
+!MESSAGE Validated 3. Took 131 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.316
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.331
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.367
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.465
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.525
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.995
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:00.996
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:01.028
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:01.028
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:01.134
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:01.134
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:01.135
+!MESSAGE Validated 3. Took 158 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:02.420
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:02.916
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:04.330
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:04.690
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:04.885
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:04.921
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.344
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.345
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.355
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.421
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.421
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.528
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.528
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.529
+!MESSAGE Validated 3. Took 207 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:05.615
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:06.027
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:06.027
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:06.044
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:06.044
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:06.140
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:06.141
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:06.141
+!MESSAGE Validated 3. Took 125 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.025
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.304
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.326
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.416
+!MESSAGE Reconciled 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.612
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.879
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.880
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.917
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:07.918
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.021
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.021
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.022
+!MESSAGE Validated 3. Took 156 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.241
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.326
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.792
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.793
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.821
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.822
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.834
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.924
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.925
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.925
+!MESSAGE Validated 3. Took 148 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:08.928
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.012
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.029
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.114
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.232
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.317
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.625
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.710
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.813
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.886
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:09.966
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.027
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.115
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.216
+!MESSAGE Reconciled 1. Took 66 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.219
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.255
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.376
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.417
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.539
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.575
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.578
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:10.642
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:11.107
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:11.108
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:11.130
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:11.131
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:11.222
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:11.223
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:11.224
+!MESSAGE Validated 3. Took 131 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:12.860
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:13.412
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:13.449
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:13.923
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:13.923
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:13.938
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:13.939
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:14.029
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:14.029
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:14.030
+!MESSAGE Validated 3. Took 130 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:14.659
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.229
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.231
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.233
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.234
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.269
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.319
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.377
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.412
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.557
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.640
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.647
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.731
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.783
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:15.818
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.295
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.295
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.331
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.332
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.433
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.434
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.435
+!MESSAGE Validated 3. Took 167 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.659
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:16.924
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.009
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.477
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.478
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.523
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.523
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.619
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.626
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.626
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.627
+!MESSAGE Validated 3. Took 167 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:17.716
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:18.182
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:18.182
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:18.226
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:18.228
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:18.322
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:18.322
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:18.323
+!MESSAGE Validated 3. Took 157 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:19.001
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.144
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.156
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.228
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.647
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.648
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.718
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.719
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.742
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.743
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:20.744
+!MESSAGE Validated 3. Took 114 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:21.240
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:21.325
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:21.640
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:21.724
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:21.849
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:21.933
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.121
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.195
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.274
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.368
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.426
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.447
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.480
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.522
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.676
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.762
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.863
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.949
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:22.997
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.034
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.082
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.148
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.184
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.265
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.318
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.365
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.424
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.887
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.887
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.917
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.917
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.931
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.934
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.935
+!MESSAGE 2 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:23.935
+!MESSAGE Validated 3. Took 61 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.100
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.452
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.484
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.520
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.551
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.590
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.591
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.621
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.656
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.691
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.734
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.776
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.801
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.837
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:24.999
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:25.084
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:25.439
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:25.489
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:25.953
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:25.954
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:25.969
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:25.970
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:26.219
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:26.221
+!MESSAGE Duplicate method geraPalavraOculta() in type PalavreadoServidor is of type DuplicateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:26.222
+!MESSAGE This method requires a body instead of a semicolon is of type MethodRequiresBody
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:26.223
+!MESSAGE Duplicate method geraPalavraOculta() in type PalavreadoServidor is of type DuplicateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:26.224
+!MESSAGE 12 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:26.224
+!MESSAGE Validated 3. Took 285 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:26.638
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.077
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.162
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.336
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.371
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.443
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.488
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.716
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.802
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:28.995
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.080
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.308
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.392
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.394
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.461
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.528
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.614
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.645
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.716
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.720
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.795
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.873
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.898
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:29.979
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.013
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.098
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.121
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.191
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.274
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.339
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.376
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.515
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.617
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.618
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.653
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.703
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.772
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.853
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.925
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:30.998
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.076
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.162
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.164
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.231
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.815
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.816
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.831
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.831
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:31.916
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.023
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.024
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.025
+!MESSAGE Validated 3. Took 343 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.032
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.069
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.190
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.250
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.308
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.368
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.834
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.835
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.849
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:32.849
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.016
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.017
+!MESSAGE This method has a constructor name is of type MethodButWithConstructorName
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.017
+!MESSAGE 2 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.017
+!MESSAGE Validated 3. Took 199 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.042
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.121
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.590
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.590
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.609
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.610
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.631
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.638
+!MESSAGE This method has a constructor name is of type MethodButWithConstructorName
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.638
+!MESSAGE 2 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:33.639
+!MESSAGE Validated 3. Took 67 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:34.709
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:34.793
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:34.858
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:34.943
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.152
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.404
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.405
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.421
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.421
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.441
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.442
+!MESSAGE This method has a constructor name is of type MethodButWithConstructorName
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.442
+!MESSAGE 2 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.443
+!MESSAGE Validated 3. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.515
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.523
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.618
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.647
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.734
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:35.890
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.216
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.327
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.328
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.423
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.522
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.721
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.722
+!MESSAGE Duplicate method geraPalavraOculta() in type PalavreadoServidor is of type DuplicateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.723
+!MESSAGE This method requires a body instead of a semicolon is of type MethodRequiresBody
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.724
+!MESSAGE Duplicate method geraPalavraOculta() in type PalavreadoServidor is of type DuplicateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.724
+!MESSAGE 12 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.726
+!MESSAGE Validated 3. Took 590 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.727
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.728
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:36.816
+!MESSAGE Reconciled 1. Took 53 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.252
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.253
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.266
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.266
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.425
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.425
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.426
+!MESSAGE Validated 3. Took 192 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.515
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.650
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:37.962
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:38.088
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:38.120
+!MESSAGE Reconciled 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:38.133
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:38.169
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:38.385
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:38.517
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:38.539
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:38.624
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.020
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.088
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.089
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.105
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.105
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.126
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.127
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.216
+!MESSAGE Validated 3. Took 141 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.621
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.706
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.837
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:39.922
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.391
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.392
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.409
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.415
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.521
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.521
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.521
+!MESSAGE Validated 3. Took 149 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.727
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.810
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:40.881
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.216
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.325
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.325
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.518
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.519
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.624
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.624
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.625
+!MESSAGE Validated 3. Took 410 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.626
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:41.710
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:42.126
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:42.127
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:42.144
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:42.144
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:42.225
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:42.225
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:42.226
+!MESSAGE Validated 3. Took 110 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:44.462
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:44.971
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:45.056
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:45.192
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:45.280
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:45.607
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:45.646
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.059
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.060
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.073
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.115
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.129
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.222
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.222
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.223
+!MESSAGE Validated 3. Took 176 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.308
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.721
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.721
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.739
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.742
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.815
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.832
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.832
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.832
+!MESSAGE Validated 3. Took 123 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:46.843
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.016
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.074
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.134
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.168
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.250
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.320
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.364
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.417
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.542
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.627
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.728
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.803
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.878
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:47.962
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:48.041
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:48.112
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:48.194
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:48.575
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:48.645
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:48.661
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:48.731
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:48.816
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:49.235
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:49.237
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:49.325
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:49.326
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:49.346
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:49.347
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:49.415
+!MESSAGE Validated 3. Took 197 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.043
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.109
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.144
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.145
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.214
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.299
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.319
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.403
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.415
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.516
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.516
+!MESSAGE Reconciled 1. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.615
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.616
+!MESSAGE Reconciled 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:50.704
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.118
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.119
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.140
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.141
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.229
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.230
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.231
+!MESSAGE Validated 3. Took 126 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.559
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.581
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.595
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.707
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.738
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:51.824
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:52.334
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:52.335
+!MESSAGE 2 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:52.430
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:52.431
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:52.526
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:52.527
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:52.527
+!MESSAGE Validated 3. Took 253 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:53.211
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.218
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.304
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.388
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.473
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.512
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.547
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.647
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.700
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.777
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.854
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.907
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:54.957
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.039
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.078
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.181
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.192
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.276
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.319
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.354
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.820
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.820
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.922
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:55.922
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:56.019
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:56.019
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:56.020
+!MESSAGE Validated 3. Took 216 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.417
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.502
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.527
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.612
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.681
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.766
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.832
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.916
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:57.956
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.031
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.043
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.069
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.228
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.314
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.356
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.392
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.451
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.488
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.525
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:58.584
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.006
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.006
+!MESSAGE 2 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.022
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.023
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.130
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.131
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.132
+!MESSAGE Validated 3. Took 147 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.695
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.730
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.844
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:23:59.880
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.034
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.070
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.484
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.523
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.699
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.785
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.816
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.851
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.862
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:00.901
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.006
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.041
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.277
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.511
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.511
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.529
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.530
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.536
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.625
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.626
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.626
+!MESSAGE Validated 3. Took 135 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.662
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.716
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.815
+!MESSAGE Reconciled 1. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.915
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:01.968
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.018
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.103
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.129
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.163
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.258
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.344
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.390
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.477
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.707
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.794
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:02.995
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.081
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.106
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.152
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.236
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.308
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.313
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.399
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.464
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.541
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.612
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.697
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.815
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:03.851
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.070
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.115
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.117
+!MESSAGE Reconciled 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.236
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.323
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.349
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.415
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.438
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.511
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.551
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.678
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.764
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:04.967
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:05.004
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:05.442
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:05.479
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:05.948
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:05.949
+!MESSAGE 2 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:05.977
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.017
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.018
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.118
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.119
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.119
+!MESSAGE Validated 3. Took 190 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.121
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.121
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.122
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.123
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.134
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.168
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.200
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.235
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.269
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.303
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.339
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.370
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.420
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.456
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.929
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:06.929
+!MESSAGE 7 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.016
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.017
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.018
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.122
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.122
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.123
+!MESSAGE Validated 3. Took 217 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.129
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.214
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.260
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.295
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.426
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.462
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.879
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.879
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.892
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.892
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.894
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.931
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.932
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:07.932
+!MESSAGE Validated 3. Took 69 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.017
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.043
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.084
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.161
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.195
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.477
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.552
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.636
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.717
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.788
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.860
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:08.934
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.017
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.124
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.159
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.316
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.401
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.874
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.874
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.917
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:09.917
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:10.018
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:10.018
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:10.019
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:10.020
+!MESSAGE Validated 3. Took 168 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:12.832
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.181
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.216
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.324
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.359
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.516
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.550
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.966
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.967
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.978
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:14.978
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.116
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.117
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.117
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.118
+!MESSAGE Validated 3. Took 167 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.166
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.216
+!MESSAGE Reconciled 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.247
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.281
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.357
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.433
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.498
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.535
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.741
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.825
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.849
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:15.928
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.059
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.142
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.164
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.244
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.330
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.415
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.465
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.500
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.513
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.567
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.638
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.677
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.700
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.740
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.778
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.898
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.913
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:16.951
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.005
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.176
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.261
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.290
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.329
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.525
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.610
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.708
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.793
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.825
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.861
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.898
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:17.963
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.015
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.051
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.100
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.220
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.257
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.305
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.408
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.481
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.562
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.599
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:18.634
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.038
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.087
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.297
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.331
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.382
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.444
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.528
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.701
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.758
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.814
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.916
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:19.996
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.017
+!MESSAGE Reconciled 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.116
+!MESSAGE Reconciled 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.136
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.217
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.222
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.260
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.317
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.420
+!MESSAGE Reconciled 1. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.515
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.615
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.638
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.718
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.819
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.855
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.876
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:20.922
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:21.046
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:21.130
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:21.157
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:21.244
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:21.595
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:21.647
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:21.746
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:21.834
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.020
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.096
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.173
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.317
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.331
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.416
+!MESSAGE Reconciled 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.552
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.588
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.710
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.795
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.827
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.868
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:22.978
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.018
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.022
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.057
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.157
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.218
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.254
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.317
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.325
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.416
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.516
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.552
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.752
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:23.841
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:24.310
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:24.310
+!MESSAGE 2 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:24.329
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:24.329
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:24.422
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:24.423
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:24.423
+!MESSAGE Validated 3. Took 132 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:24.991
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:25.286
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:25.541
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:25.626
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:25.840
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:25.924
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:26.398
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:26.399
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:26.422
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:26.423
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:26.527
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:26.527
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:26.528
+!MESSAGE Validated 3. Took 152 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.015
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.176
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.261
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.287
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.321
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.444
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.528
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.547
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.582
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.662
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.739
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.765
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.799
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.846
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.931
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:28.999
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.084
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.176
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.253
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.329
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.368
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.430
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.465
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.499
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.572
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.607
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.646
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:29.709
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.123
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.126
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.126
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.139
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.140
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.231
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.231
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.232
+!MESSAGE Validated 3. Took 122 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.233
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.315
+!MESSAGE Reconciled 1. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.364
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.449
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.506
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.560
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.919
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:30.961
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.002
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.072
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.080
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.153
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.224
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.264
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.299
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.349
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.397
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.450
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.473
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.557
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.563
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.626
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.637
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:31.722
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:32.183
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:32.183
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:32.224
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:32.225
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:32.817
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:32.821
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:32.821
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:32.821
+!MESSAGE Validated 3. Took 649 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:35.092
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:37.538
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:37.623
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:37.715
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:37.801
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.220
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.220
+!MESSAGE 1 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.233
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.233
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.327
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.328
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.328
+!MESSAGE Validated 3. Took 126 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.688
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.722
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.752
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.789
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:38.929
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.014
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.043
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.081
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.121
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.183
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.234
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.310
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.386
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.468
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.506
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.552
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.621
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.659
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.729
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.811
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.842
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.912
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:39.921
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.006
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.132
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.168
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.255
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.308
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.372
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.407
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.493
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.579
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.597
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:40.681
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.009
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.086
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.183
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.266
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.274
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.336
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.393
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.438
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.514
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.598
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.632
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.667
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.714
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.784
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.824
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.886
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:41.986
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.071
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.104
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.139
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.422
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.497
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.541
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.573
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.642
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.683
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.768
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.809
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.894
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.955
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:42.986
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.040
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.087
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.173
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.265
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.350
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.393
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.429
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.544
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.629
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.672
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:43.734
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.001
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.037
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.109
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.195
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.196
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.263
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.340
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.371
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.416
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.522
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:44.569
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.000
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.011
+!MESSAGE 2 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.030
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.030
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.152
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.153
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.153
+!MESSAGE Validated 3. Took 183 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.263
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.265
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.351
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.772
+!MESSAGE begin problem for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.772
+!MESSAGE 2 problems reported for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.782
+!MESSAGE begin problem for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.815
+!MESSAGE 1 problems reported for /Servidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.834
+!MESSAGE begin problem for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.834
+!MESSAGE 1 problems reported for /PalavreadoServidor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:45.834
+!MESSAGE Validated 3. Took 82 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:46.736
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:49.933
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:52.909
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:24:55.859
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:29:05.788
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:48:51.655
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:48:51.657
+!MESSAGE Clearing problems for /PalavreadoCliente.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:48:53.024
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:48:53.032
+!MESSAGE Error while opening document. URI: file:///home/runner/RedesEP1/PalavreadoCliente.java
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1210)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:98)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:105)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:376)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:310)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:307)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didOpen(JDTLanguageServer.java:757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	... 33 more
+Caused by: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 36 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/PalavreadoCliente.java)[368]: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:98)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:105)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:376)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:310)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:307)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didOpen(JDTLanguageServer.java:757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-12-10 01:48:53.033
+!MESSAGE File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/PalavreadoCliente.java)[368]: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:98)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:105)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:376)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:310)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:307)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didOpen(JDTLanguageServer.java:757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2023-12-10 01:48:53.033
+!MESSAGE File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+!STACK 0
+java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:98)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:105)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:376)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:310)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:307)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didOpen(JDTLanguageServer.java:757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:48:54.093
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2023-12-10 01:48:54.317
+!MESSAGE Error in JDT Core during AST creation
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1210)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.hasSource(CoreASTProvider.java:393)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:269)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:330)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:125)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:648)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	... 18 more
+Caused by: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 21 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/PalavreadoCliente.java)[368]: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.hasSource(CoreASTProvider.java:393)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:269)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:330)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:125)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:648)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-12-10 01:48:54.317
+!MESSAGE File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/PalavreadoCliente.java)[368]: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.hasSource(CoreASTProvider.java:393)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:269)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:330)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:125)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:648)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2023-12-10 01:48:54.317
+!MESSAGE File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+!STACK 0
+java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/PalavreadoCliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.hasSource(CoreASTProvider.java:393)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:269)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:330)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:125)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:648)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:48:57.018
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2023-12-10 01:48:57.024
+!MESSAGE Error while opening document. URI: file:///home/runner/RedesEP1/Cliente.java
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1210)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:98)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:105)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:376)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:310)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:307)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didOpen(JDTLanguageServer.java:757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	... 33 more
+Caused by: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 36 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/Cliente.java)[368]: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:98)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:105)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:376)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:310)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:307)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didOpen(JDTLanguageServer.java:757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-12-10 01:48:57.024
+!MESSAGE File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/Cliente.java)[368]: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:98)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:105)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:376)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:310)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:307)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didOpen(JDTLanguageServer.java:757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2023-12-10 01:48:57.024
+!MESSAGE File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+!STACK 0
+java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:98)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:105)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:376)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:310)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:307)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didOpen(JDTLanguageServer.java:757)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-12-10 01:48:58.041
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2023-12-10 01:48:58.225
+!MESSAGE Error in JDT Core during AST creation
+!STACK 1
+Java Model Exception: Core Exception [code 368] File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1210)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.hasSource(CoreASTProvider.java:393)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:269)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:330)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:125)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:648)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.core.internal.resources.ResourceException: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	... 18 more
+Caused by: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 21 more
+Caused by: org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/Cliente.java)[368]: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.hasSource(CoreASTProvider.java:393)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:269)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:330)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:125)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:648)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-12-10 01:48:58.226
+!MESSAGE File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/Cliente.java)[368]: java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.hasSource(CoreASTProvider.java:393)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:269)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:330)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:125)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:648)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2023-12-10 01:48:58.226
+!MESSAGE File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+!STACK 0
+java.lang.Exception: File not found: /home/runner/RedesEP1/Cliente/Cliente.java.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1208)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1201)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openBuffer(CompilationUnit.java:1212)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:114)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.hasSource(CoreASTProvider.java:393)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:269)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getASTRoot(CodeActionHandler.java:330)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:125)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:648)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.lang.Thread.run(Thread.java:833)
